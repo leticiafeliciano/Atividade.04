@@ -1,0 +1,16 @@
+C:\Users\isabe\source\repos\atividade04\Exercicio06\bin\Debug\net5.0\Exercicio06.exe
+C:\Users\isabe\source\repos\atividade04\Exercicio06\bin\Debug\net5.0\Exercicio06.deps.json
+C:\Users\isabe\source\repos\atividade04\Exercicio06\bin\Debug\net5.0\Exercicio06.runtimeconfig.json
+C:\Users\isabe\source\repos\atividade04\Exercicio06\bin\Debug\net5.0\Exercicio06.runtimeconfig.dev.json
+C:\Users\isabe\source\repos\atividade04\Exercicio06\bin\Debug\net5.0\Exercicio06.dll
+C:\Users\isabe\source\repos\atividade04\Exercicio06\bin\Debug\net5.0\Exercicio06.pdb
+C:\Users\isabe\source\repos\atividade04\Exercicio06\obj\Debug\net5.0\Exercicio06.csproj.AssemblyReference.cache
+C:\Users\isabe\source\repos\atividade04\Exercicio06\obj\Debug\net5.0\Exercicio06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isabe\source\repos\atividade04\Exercicio06\obj\Debug\net5.0\Exercicio06.AssemblyInfoInputs.cache
+C:\Users\isabe\source\repos\atividade04\Exercicio06\obj\Debug\net5.0\Exercicio06.AssemblyInfo.cs
+C:\Users\isabe\source\repos\atividade04\Exercicio06\obj\Debug\net5.0\Exercicio06.csproj.CoreCompileInputs.cache
+C:\Users\isabe\source\repos\atividade04\Exercicio06\obj\Debug\net5.0\Exercicio06.dll
+C:\Users\isabe\source\repos\atividade04\Exercicio06\obj\Debug\net5.0\refint\Exercicio06.dll
+C:\Users\isabe\source\repos\atividade04\Exercicio06\obj\Debug\net5.0\Exercicio06.pdb
+C:\Users\isabe\source\repos\atividade04\Exercicio06\obj\Debug\net5.0\Exercicio06.genruntimeconfig.cache
+C:\Users\isabe\source\repos\atividade04\Exercicio06\obj\Debug\net5.0\ref\Exercicio06.dll
